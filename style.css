@@ -555,7 +555,7 @@ h2 a:hover, h3 a:hover {
   color: #00c1ed;
 }
 .light h1, .light h2, .light h3, .light h4, .light h5, .light h6, .light p, .light span, .light div, .light ul {
-  color: #fff;
+  color: #000;
 }
 h1.light, h2.light, h3.light, h4.light, h5.light, h6.light {
   font-weight: 300;
@@ -6686,3 +6686,4 @@ body.chocolat-open > .chocolat-image-wrapper {
     opacity: 0;
 }
 */
+
